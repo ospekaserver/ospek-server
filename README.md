@@ -1,0 +1,2 @@
+# ospek-server
+Server id
